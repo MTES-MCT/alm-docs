@@ -1,0 +1,44 @@
+variables:
+  GIT_SUBMODULE_STRATEGY: normal
+
+before_script:
+  - rm -rf public/
+
+stages:
+  - build
+  - deploy
+
+
+build_site:
+  # Build website with mkdocs and expose it as artifact
+  stage: build
+  tags:
+    - docker
+  image: python:3.11
+  variables:
+    SITE_URL: $CI_PAGES_URL
+  script:
+    - pip install -r requirements.txt
+    - mkdocs build
+  artifacts:
+    paths:
+      - ./site
+  only:
+    - main
+
+pages:
+  # Deploy artifacts from the 'build' stage
+  # to Gitlab pages.
+  image: bash
+  stage: deploy
+  tags:
+    - docker
+  variables:
+    GIT_STRATEGY: none
+  script:
+    - mv site public
+  artifacts:
+    paths:
+      - public
+  only:
+    - main

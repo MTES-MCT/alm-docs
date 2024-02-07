@@ -1,0 +1,9 @@
+__pycache__
+*.egg-info/
+venv/
+
+/README.html
+
+# mkdocs build
+/site
+

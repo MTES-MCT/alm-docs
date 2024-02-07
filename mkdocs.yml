@@ -1,0 +1,36 @@
+site_name: Documentation Accèslibre Mobilités
+site_url: !ENV SITE_URL
+repo_url: https://gitlab.com/yukaimaps/
+repo_name: GitLab
+site_author: Someware, Jungle Bus, Atipy & Adrien Pavie
+
+
+plugins:
+  - search  
+
+theme:
+  name: material
+  language: fr
+  palette:
+    scheme: default
+    primary: blue
+    accent: blue
+
+markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
+
+nav:
+  - Accueil: 'index.md'
+  - Le modèle de données: 'datamodel/index.md'
+  - Installation:
+    - Présentation des composants: 'install/architecture.md'
+    - Docker: 'install/docker.md'
+  - Utilisation des applications:
+    - Application web: 'usage/web.md'
+    - Application mobile: 'usage/mobile.md'
