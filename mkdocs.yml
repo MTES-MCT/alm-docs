@@ -30,7 +30,7 @@ nav:
   - Le modèle de données: 'datamodel/index.md'
   - Installation:
     - Présentation des composants: 'install/architecture.md'
-    - Docker: 'install/docker.md'
+    - Docker: 'install/docker-compose.md'
   - Utilisation des applications:
     - Application web: 'usage/web.md'
     - Application mobile: 'usage/mobile.md'
