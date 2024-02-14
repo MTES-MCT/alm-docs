@@ -1,6 +1,6 @@
 # Accèslibre Mobilités
 
-## Des outils pour cartographie l'accessibilité Voirie / Transports / ERP.
+## Des outils pour cartographier l'accessibilité Voirie / Transports / ERP.
 
 Des outils open source de relevé de terrain des données d’accessibilité dans 
 les transports et sur la voirie alentour, respectant le standard CNIG - 

@@ -11,10 +11,12 @@ plugins:
 theme:
   name: material
   language: fr
+  features:
+    - navigation.indexes
   palette:
     scheme: default
     primary: blue
-    accent: blue
+    accent: blue  
 
 markdown_extensions:
   - pymdownx.highlight:
@@ -24,6 +26,10 @@ markdown_extensions:
   - pymdownx.inlinehilite
   - pymdownx.snippets
   - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true  
+  - admonition
+  - md_in_html
 
 nav:
   - Accueil: 'index.md'
@@ -32,5 +38,24 @@ nav:
     - Présentation des composants: 'install/architecture.md'
     - Docker: 'install/docker-compose.md'
   - Utilisation des applications:
+    - Imports: 
+      - 'usage/imports/index.md'
+      - Cheminement: 
+        - 'usage/imports/cheminement/index.md'
+        - OSM : 'usage/imports/cheminement/imports-cheminement-osm.md'
+      - Transport:
+        - 'usage/imports/transport/index.md'
+        - NeTEx : usage/imports/transport/imports-transport-netex.md
+        - OSM : usage/imports/transport/imports-transport-osm.md
+      - ERP:
+        - 'usage/imports/ERP/index.md'
+        - AccesLibre : usage/imports/ERP/imports-erp-acceslibre.md
+        - OSM : usage/imports/ERP/imports-erp-osm.md      
     - Application web: 'usage/web.md'
     - Application mobile: 'usage/mobile.md'
+    - Exports: 'usage/exports.md'
+    - Publication des données: 
+        - 'usage/publish/index.md'
+        - Licences: 'usage/publish/licence.md'
+  - Accompagnement: 'contact.md'
+  - Crédits: 'credits.md'
