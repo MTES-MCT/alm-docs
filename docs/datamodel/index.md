@@ -4,7 +4,7 @@ AccesLibre Mobilités permet de collecter des données en respectant le standard
 
 !!! question "CNIG ? "
 
-    TODO
+    Le Conseil national de l'information géographique (CNIG) est une instance consultative qui coordonne et accompagne l'évolution de l'information géolocalisée en France. Son groupe de travail sur l'accessibilité a élaboré un [standard d'échange de données](https://cnig.gouv.fr/ressources-accessibilite-a25335.html) pour définir les objets et les attributs que les collectivités territoriales doivent publier afin de faciliter les déplacements des personnes à mobilité réduite. Le format d'échange de ces données est le [profil NeTEx pour l'accessibilité](https://normes.transport.data.gouv.fr/normes/netex/accessibilit%C3%A9/).
 
 !!! question "NeTEx ?"
 
