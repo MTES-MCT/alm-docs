@@ -28,7 +28,7 @@ Enfin, en complément des aspects techniques, des questions de propriété priv�
 
 En effet, les données créées dans AccesLibre Mobilités ont vocation à être publiées en open data. Cela interdit a priori l'utilisation et l'import de données privées qui n'ont pas vocation à être mises à disposition du public (par exemple données achetées à des opérateurs de mobilité type Waze, Strava).
 
-Les données de votre SIG ou crées par vos services sont a priori utilisables dans AccesLibre Mobilités, mais il vous revient de vous assurer qu'elles sont effectivement diffusables.
+Les données de votre SIG ou créées par vos services sont a priori utilisables dans AccesLibre Mobilités, mais il vous revient de vous assurer qu'elles sont effectivement diffusables.
 
 De plus, la licence ou les conditions d'utilisation des données importées peuvent avoir un impact sur la licence finale de publication des données d'AccesLibre Mobilités. Le cas typique est la présence d'une clause d'attribution (présente dans les données sous licence ouverte et sous licence ODbL), qui impose d'afficher le nom du fournisseur de données dans les données finales.
 
