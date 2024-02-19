@@ -9,7 +9,7 @@ Un projet typique avec AccesLibre Mobilités est constitué de plusieurs étapes
 * l'installation de l'outil
 * la configuration initiale : pour renseigner la zone géographique concernée, ainsi que les zones de travail
 * les [imports](imports/index.md) : pour initialiser la base de données avec des données déjà existantes en interne ou en open data
-* la création du graphe piéton : pour initialiser le réseau des trottoirs et des passages piétons, qui servira de support à la collecte terrain
+* la [création du graphe piéton](web/graphe.md) : pour initialiser le réseau des trottoirs et des passages piétons, qui servira de support à la collecte terrain
 * la collecte terrain : pour compléter les attributs d'accessibilité
 * l'export puis la publication des données
 

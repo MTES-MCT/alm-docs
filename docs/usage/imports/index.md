@@ -1,6 +1,6 @@
 # Imports
 
-AccesLibre Mobilités propose plusieurs modules d'imports de données, qui permettent d'initialiser le graphe piéton avec les données dont vous disposez déjà en interne.
+AccesLibre Mobilités propose plusieurs modules d'imports de données, qui permettent d'initialiser le [graphe piéton](../web/graphe.md) avec les données dont vous disposez déjà en interne.
 
 La phase d'import est facultative : il est possible de créer l'intégralité des données dans AccesLibre Mobilités sans recourir à des imports.
 Cependant, lorsque des données sont préexistantes, il est pertinent de s'appuyer dessus afin :

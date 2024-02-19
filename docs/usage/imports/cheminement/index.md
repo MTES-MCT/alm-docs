@@ -4,7 +4,7 @@
 [ligne]: ../../../img/picto-ligne.png
 [surface]: ../../../img/picto-surface.png
 
-L'import des cheminements piétons permet d'initialiser le graphe piéton, c'est-à-dire le réseau des trottoirs et passages piétons qui constitue la base de la collecte d'information dans AccesLibre Mobilités.
+L'import des cheminements piétons permet d'initialiser le [graphe piéton](../../web/graphe.md), c'est-à-dire le réseau des trottoirs et passages piétons qui constitue la base de la collecte d'information dans AccesLibre Mobilités.
 
 !!! abstract "Conseil"
 
