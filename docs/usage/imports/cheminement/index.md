@@ -35,12 +35,14 @@ Si vous disposez d'un jeu de données en interne d'une source ou d'un format non
 
 L'éditeur web permet d'afficher des couches de données externes en superposition du graphe. Cette option peut être pertinente par exemple si vous disposez d'une liste de mobilier urbain avec leur position et qu'il n'est pas pertinent de tout importer (seuls ceux qui constituent des obstacles vont être intéressants).
 Dans ce cas, il est possible d'afficher ce jeu de données et de "recopier" les informations qui nous intéressent.
-Vous pouvez réaliser cette étape en toute autonomie : cf page afficher des données externes dans l'éditeur web (TODO lien vers page de doc à créer)
 
 <figure markdown>
   ![capture d'écran de Yukaidi](../../../img/yukaidi_custom-layer.png)
   <figcaption>Ici, un jeu de données contenant des points a été ajouté à l'éditeur web sous la forme d'une couche de "données de carte personnalisées" (affiché en rose). On peut alors visualiser la position de chaque point et consulter ses attributs en cliquant dessus.</figcaption>
 </figure>
+
+Vous pouvez réaliser cette étape en toute autonomie : [voir le mode opératoire](../../web/astuces.md/#afficher-des-donnees-tierces).
+
 
 ### L'intégration du jeu de données à OpenStreetMap
 
