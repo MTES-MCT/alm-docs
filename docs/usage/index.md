@@ -13,7 +13,7 @@ Un projet typique avec AccesLibre Mobilités est constitué de plusieurs étapes
 * la collecte terrain : pour compléter les attributs d'accessibilité
 * l'export puis la publication des données
 
-La création du graphe piéton se fait dans l'éditeur web. Il s'agit alors de créer les objets sur lesquelles des informations seront collectées : les arrêts de transport, les trottoirs, les traversées, etc
+La création du graphe piéton se fait dans [l'éditeur web](web/index.md). Il s'agit alors de créer les objets sur lesquelles des informations seront collectées : les arrêts de transport, les trottoirs, les traversées, etc
 
 !!! abstract "Conseil"
 

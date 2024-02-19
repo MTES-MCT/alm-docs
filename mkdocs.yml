@@ -52,7 +52,10 @@ nav:
         - 'usage/imports/ERP/index.md'
         - AccesLibre : usage/imports/ERP/imports-erp-acceslibre.md
         - OSM : usage/imports/ERP/imports-erp-osm.md      
-    - Éditeur web: 'usage/web.md'
+    - Éditeur web:
+      - 'usage/web/index.md'
+      - Graphe : usage/web/graphe.md
+      - Astuces avancées : usage/web/astuces.md
     - Application mobile: 'usage/mobile.md'
     - Exports: 'usage/exports.md'
     - Publication des données: 
