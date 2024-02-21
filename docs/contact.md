@@ -10,7 +10,7 @@ Cette page liste des entreprises qui proposent des prestations d'accompagnement 
 
 Si vous avez bénéficié d'une prestation d'installation de la solution AccesLibre Mobilités, contacter votre prestataire. Un forfait d'accompagnement a surement été prévu dans ce cadre.
 
-## Someware
+## Someware
 
 Someware est une entreprise qui propose des prestations de conseil et de développement logiciel sur la thématique de l'accessibilité et la marchabilité.
 
