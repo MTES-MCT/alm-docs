@@ -11,7 +11,7 @@ Run locally
 In a python venv:
 
 ```
-pip install requirements.txt
+pip install -r requirements.txt
 mkdocs serve
 ```
 
