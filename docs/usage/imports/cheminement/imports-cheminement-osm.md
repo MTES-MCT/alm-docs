@@ -6,7 +6,7 @@
 
 Il est possible d'importer des données de cheminement piéton d'[OpenStreetMap](https://www.openstreetmap.org) pour initialiser le graphe piéton AccesLibre Mobilités avec les trottoirs et passages piétons déjà renseignées dans OpenStreetMap.
 
-L'étape d'import peut faire gagner un temps significatif de saisie, car la création du graphe piéton est une étape très chronophage et qui a une importance cruciale pour la poursuite du projet. De plus, elle permet de tirer partie des éventuels informations déjà renseignées par les contributeurs OpenStreetMap telles que la nature du revêtement, sa qualité ou encore la présence de marquage des traversées piétonnes.
+L'étape d'import peut faire gagner un temps significatif de saisie, car [la création du graphe piéton](../../web/graphe.md) est une étape très chronophage et qui a une importance cruciale pour la poursuite du projet. De plus, elle permet de tirer partie des éventuels informations déjà renseignées par les contributeurs OpenStreetMap telles que la nature du revêtement, sa qualité ou encore la présence de marquage des traversées piétonnes.
 
 ## Prévisualiser les données disponibles
 

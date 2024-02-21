@@ -1,4 +1,4 @@
-site_name: Documentation Accèslibre Mobilités
+site_name: Documentation AccesLibre Mobilités
 site_url: !ENV SITE_URL
 repo_url: https://gitlab.com/yukaimaps/
 repo_name: GitLab
@@ -37,7 +37,8 @@ nav:
   - Installation:
     - Présentation des composants: 'install/architecture.md'
     - Docker: 'install/docker-compose.md'
-  - Utilisation des applications:
+  - Utilisation:
+    - 'usage/index.md'
     - Imports: 
       - 'usage/imports/index.md'
       - Cheminement: 
@@ -51,7 +52,10 @@ nav:
         - 'usage/imports/ERP/index.md'
         - AccesLibre : usage/imports/ERP/imports-erp-acceslibre.md
         - OSM : usage/imports/ERP/imports-erp-osm.md      
-    - Application web: 'usage/web.md'
+    - Éditeur web:
+      - 'usage/web/index.md'
+      - Graphe : usage/web/graphe.md
+      - Astuces avancées : usage/web/astuces.md
     - Application mobile: 'usage/mobile.md'
     - Exports: 'usage/exports.md'
     - Publication des données: 

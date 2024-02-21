@@ -1,4 +1,4 @@
-# Accèslibre Mobilités
+# AccesLibre Mobilités
 
 ## Des outils pour cartographier l'accessibilité Voirie / Transports / ERP.
 
@@ -12,4 +12,3 @@ Accessibilité et le format d'échange NeTEx.
 ![Jungle Bus](img/junglebus-logo.png)
 ![Adrien Pavie](img/adrienpavie-logo.png)
 ![Atipy](img/atipy-logo.png)
-
