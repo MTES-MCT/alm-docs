@@ -1,117 +1,117 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>https://github.com/MTES-MCT/alm-docs/</loc>
+         <loc>https://mtes-mct.github.io/alm-docs/</loc>
          <lastmod>2024-03-12</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/MTES-MCT/alm-docs/contact/</loc>
+         <loc>https://mtes-mct.github.io/alm-docs/contact/</loc>
          <lastmod>2024-03-12</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/MTES-MCT/alm-docs/credits/</loc>
+         <loc>https://mtes-mct.github.io/alm-docs/credits/</loc>
          <lastmod>2024-03-12</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/MTES-MCT/alm-docs/datamodel/</loc>
+         <loc>https://mtes-mct.github.io/alm-docs/datamodel/</loc>
          <lastmod>2024-03-12</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/MTES-MCT/alm-docs/install/architecture/</loc>
+         <loc>https://mtes-mct.github.io/alm-docs/install/architecture/</loc>
          <lastmod>2024-03-12</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/MTES-MCT/alm-docs/install/docker-compose/</loc>
+         <loc>https://mtes-mct.github.io/alm-docs/install/docker-compose/</loc>
          <lastmod>2024-03-12</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/MTES-MCT/alm-docs/usage/</loc>
+         <loc>https://mtes-mct.github.io/alm-docs/usage/</loc>
          <lastmod>2024-03-12</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/MTES-MCT/alm-docs/usage/exports/</loc>
+         <loc>https://mtes-mct.github.io/alm-docs/usage/exports/</loc>
          <lastmod>2024-03-12</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/MTES-MCT/alm-docs/usage/mobile/</loc>
+         <loc>https://mtes-mct.github.io/alm-docs/usage/mobile/</loc>
          <lastmod>2024-03-12</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/MTES-MCT/alm-docs/usage/imports/</loc>
+         <loc>https://mtes-mct.github.io/alm-docs/usage/imports/</loc>
          <lastmod>2024-03-12</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/MTES-MCT/alm-docs/usage/imports/ERP/</loc>
+         <loc>https://mtes-mct.github.io/alm-docs/usage/imports/ERP/</loc>
          <lastmod>2024-03-12</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/MTES-MCT/alm-docs/usage/imports/ERP/imports-erp-acceslibre/</loc>
+         <loc>https://mtes-mct.github.io/alm-docs/usage/imports/ERP/imports-erp-acceslibre/</loc>
          <lastmod>2024-03-12</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/MTES-MCT/alm-docs/usage/imports/ERP/imports-erp-osm/</loc>
+         <loc>https://mtes-mct.github.io/alm-docs/usage/imports/ERP/imports-erp-osm/</loc>
          <lastmod>2024-03-12</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/MTES-MCT/alm-docs/usage/imports/cheminement/</loc>
+         <loc>https://mtes-mct.github.io/alm-docs/usage/imports/cheminement/</loc>
          <lastmod>2024-03-12</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/MTES-MCT/alm-docs/usage/imports/cheminement/imports-cheminement-osm/</loc>
+         <loc>https://mtes-mct.github.io/alm-docs/usage/imports/cheminement/imports-cheminement-osm/</loc>
          <lastmod>2024-03-12</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/MTES-MCT/alm-docs/usage/imports/transport/</loc>
+         <loc>https://mtes-mct.github.io/alm-docs/usage/imports/transport/</loc>
          <lastmod>2024-03-12</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/MTES-MCT/alm-docs/usage/imports/transport/imports-transport-netex/</loc>
+         <loc>https://mtes-mct.github.io/alm-docs/usage/imports/transport/imports-transport-netex/</loc>
          <lastmod>2024-03-12</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/MTES-MCT/alm-docs/usage/imports/transport/imports-transport-osm/</loc>
+         <loc>https://mtes-mct.github.io/alm-docs/usage/imports/transport/imports-transport-osm/</loc>
          <lastmod>2024-03-12</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/MTES-MCT/alm-docs/usage/publish/</loc>
+         <loc>https://mtes-mct.github.io/alm-docs/usage/publish/</loc>
          <lastmod>2024-03-12</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/MTES-MCT/alm-docs/usage/publish/licence/</loc>
+         <loc>https://mtes-mct.github.io/alm-docs/usage/publish/licence/</loc>
          <lastmod>2024-03-12</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/MTES-MCT/alm-docs/usage/web/</loc>
+         <loc>https://mtes-mct.github.io/alm-docs/usage/web/</loc>
          <lastmod>2024-03-12</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/MTES-MCT/alm-docs/usage/web/astuces/</loc>
+         <loc>https://mtes-mct.github.io/alm-docs/usage/web/astuces/</loc>
          <lastmod>2024-03-12</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/MTES-MCT/alm-docs/usage/web/graphe/</loc>
+         <loc>https://mtes-mct.github.io/alm-docs/usage/web/graphe/</loc>
          <lastmod>2024-03-12</lastmod>
          <changefreq>daily</changefreq>
     </url>
