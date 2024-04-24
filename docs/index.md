@@ -1,25 +1,15 @@
 # AccesLibre Mobilités
 
-## Des outils pour cartographier l'accessibilité Voirie / Transports / ERP.
+AccesLibre Mobilités est une suite logicielle qui permet aux collectivités de collecter, créer et publier les données d'accessibilité des transports et de la voirie.
 
-Des outils open source de relevé de terrain des données d’accessibilité dans 
-les transports et sur la voirie alentour, respectant le standard CNIG - 
-Accessibilité et le format d'échange NeTEx.
+Afin de garantir un contrôle fin sur les données et les accès des utilisateurs, cette suite logicielle doit être installée et instantiée par chaque collectivité.
 
+Le point d'entrée d'AccesLibre Mobilités est son portail web, qui permet entre autres de gérer la configuration et d'accéder aux autres composants.
 
-## Le projet
+Les composants principaux d'AccesLibre Mobilités sont
 
-Le développement des ces outils est piloté est financé par la [Direction 
-générale des infrastructures, des transports et des mobilités 
-(DGITM)](https://www.ecologie.gouv.fr/direction-generale-des-infrastructures-des-transports-et-des-mobilites-dgitm)
+* un éditeur web, qui permet de créer le graphe piéton qui servira de support à la collecte terrain
+* une application mobile, pour compléter les attributs d'accessibilité lors de relevés sur le terrain
 
-![Ministère de la transition écologique et de la cohésion des 
-territoires](img/Ministere_de_la_Transition_ecologique_et_de_la_Cohesion_des_territoires.png).
+Les données ainsi crées peuvent ensuite être exportées dans le format d'échange NeTEx accessibilité, conformément au cadre réglementaire en France.
 
-Dans le cadre d'une passation de marché public, le développement et la 
-réalisation ont été portées par des sociétés suivantes :
-
-[![Someware](img/someware-logo.png)](https://www.someware.fr)
-[![Jungle Bus](img/junglebus-logo.png)](https://junglebus.io/)
-[![Adrien Pavie](img/adrienpavie-logo.png)](https://pavie.info/)
-[![Atipy](img/atipy-logo.png)](https://www.atipy.fr/)

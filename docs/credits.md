@@ -1,7 +1,11 @@
 # Crédits
 
-AccesLibre Mobilités est une suite logicielle qui a été imaginée et financée initialement par l'[Agence de l'Innovation pour les Transports](https://www.ecologie.gouv.fr/agence-innovation-transports) du Ministère de la Transition écologique et de la Cohésion des territoires.
+AccesLibre Mobilités est une suite logicielle qui a été imaginée et financée initialement par l'[Agence de l'Innovation pour les Transports](https://www.ecologie.gouv.fr/agence-innovation-transports) et la [Direction 
+générale des infrastructures, des transports et des mobilités 
+(DGITM)](https://www.ecologie.gouv.fr/direction-generale-des-infrastructures-des-transports-et-des-mobilites-dgitm) du Ministère de la Transition écologique et de la Cohésion des territoires.
 
+![logo Ministère de la transition écologique et de la cohésion des 
+territoires](img/Ministere_de_la_Transition_ecologique_et_de_la_Cohesion_des_territoires.png) 
 ![logo AIT](img/logo-AIT.png)
 
 AccesLibre Mobilités a été initialement développé par le groupement d'entreprises suivantes :
@@ -11,10 +15,10 @@ AccesLibre Mobilités a été initialement développé par le groupement d'entre
 * [Adrien Pavie](https://pavie.info/)
 * [Atipy](https://atipy.fr/)
 
-![logo Someware](img/someware-logo.png)
-![logo Jungle Bus](img/junglebus-logo.png)
-![logo Adrien Pavie](img/adrienpavie-logo.png)
-![logo Atipy](img/atipy-logo.png)
+[![Someware](img/someware-logo.png)](https://www.someware.fr)
+[![Jungle Bus](img/junglebus-logo.png)](https://junglebus.io/)
+[![Adrien Pavie](img/adrienpavie-logo.png)](https://pavie.info/)
+[![Atipy](img/atipy-logo.png)](https://www.atipy.fr/)
 
 Les premières versions d'AccesLibre Mobilités ont été testées et améliorées grâce aux retours des collectivités pilotes suivantes :
 
