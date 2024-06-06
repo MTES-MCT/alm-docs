@@ -61,7 +61,9 @@ nav:
       - 'usage/web/index.md'
       - Graphe : usage/web/graphe.md
       - Astuces avancées : usage/web/astuces.md
-    - Application mobile: 'usage/mobile.md'
+    - Application mobile:
+      - 'usage/mobile/index.md'
+      - Utilisation avancée : usage/mobile/tweak.md
     - Exports: 'usage/exports.md'
     - Publication des données: 
         - 'usage/publish/index.md'
