@@ -17,8 +17,8 @@ L'utilisation de l'application repose sur les principes suivants :
 * en répondant aux *quêtes*, on compléte les attributs d'accessibilité du 
   graphe.
 
-![Capture d'écran de l'application montrant des quêtes](/img/app_quests.png)
-![Capture d'écran de l'application montrant un formulaire de réponse](/img/app_quest_form.png)
+![Capture d'écran de l'application montrant des quêtes](../../img/app_quests.png)
+![Capture d'écran de l'application montrant un formulaire de réponse](../../img/app_quest_form.png)
 
 
 !!! info
@@ -35,9 +35,9 @@ L'envoi des réponses nécessite d'être connecté à son compte Accèslibre
 mobilités. Pour se connecter, ouvrir le menu en haut à droite et cliquez sur 
 "Mon compte".
 
-![Capture d'écran du menu principal](/img/app_main_menu.png)
-![Capture d'écran de la page de connexion](/img/app_login_page.png)
-![Capture d'écran de la page "Mon compte"](/img/app_account_page.png)
+![Capture d'écran du menu principal](../../img/app_main_menu.png)
+![Capture d'écran de la page de connexion](../../img/app_login_page.png)
+![Capture d'écran de la page "Mon compte"](../../img/app_account_page.png)
 
 
 ## Découper un tronçon
@@ -53,8 +53,8 @@ le tronçon avant de répondre :
   découpé. Vous pourrez ensuite répondre à deux quêtes, une pour chaque 
   tronçon.
 
-![Capture d'écran du menu "Autres réponses"](/img/app_quest_depends.png)
-![Capture d'écran de la fonction de découpage](/img/app_quest_cut.png)
+![Capture d'écran du menu "Autres réponses"](../../img/app_quest_depends.png)
+![Capture d'écran de la fonction de découpage](../../img/app_quest_cut.png)
 
 
 ## Ajouter un obstacle
@@ -67,7 +67,7 @@ du dessin du graphe. Pour créer un obstacle sur le terrain :
   alors en surbrillance et validez
 * Choisissez le type d'obstacle dans la liste
 
-![Capture d'écran du menu sur appui long](/img/app_long_press_menu.png)
-![Capture d'écran du placement d'obstacle](/img/app_place_obstacle.png)
-![Capture d'écran du choix de type d'obstacle](/img/app_list_obstacles.png)
+![Capture d'écran du menu sur appui long](../../img/app_long_press_menu.png)
+![Capture d'écran du placement d'obstacle](../../img/app_place_obstacle.png)
+![Capture d'écran du choix de type d'obstacle](../../img/app_list_obstacles.png)
 

@@ -11,7 +11,7 @@ recharger les quêtes si l'on pense que la donnée n'est plus à jour.
 Pour cela, ouvrir le menu en haut à droite et cliquez sur "Rechercher des 
 quêtes ici"
 
-![Capture d'écran du menu principal](/img/app_main_menu.png)
+![Capture d'écran du menu principal](../../img/app_main_menu.png)
 
 
 ## Utiliser un fond d'imagerie aérienne
@@ -20,7 +20,7 @@ Dans le menu principal, cliquez sur "Paramètres" puis "Sélectionnez le type de
 fond".
 
 ![Capture d'écran du menu de changement de fond de 
-plan](/img/app_change_map.png)
+plan](../../img/app_change_map.png)
 
 
 ## Modifier la liste des quêtes
@@ -30,4 +30,4 @@ modifier leur ordre d'apparition. Dans les paramètres, cliquez sur "Sélection
 et priorité des quêtes".
 
 ![Capture d'écran de l'écran de sélection des 
-quêtes](/img/app_change_quests.png)
+quêtes](../../img/app_change_quests.png)
