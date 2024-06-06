@@ -1,6 +1,8 @@
-# AccesLibre Mobilités
+# ![Accèslibre Mobilités](img/logo_AccesLibreMobilites.png)
 
-AccesLibre Mobilités est une suite logicielle qui permet aux collectivités de collecter, créer et publier les données d'accessibilité des transports et de la voirie.
+AccesLibre Mobilités est une suite logicielle qui permet aux collectivités de 
+collecter, créer et publier les données d'accessibilité des transports et de la 
+voirie.
 
 Afin de garantir un contrôle fin sur les données et les accès des utilisateurs, cette suite logicielle doit être installée et instantiée par chaque collectivité.
 
@@ -11,5 +13,6 @@ Les composants principaux d'AccesLibre Mobilités sont
 * un éditeur web, qui permet de créer le graphe piéton qui servira de support à la collecte terrain
 * une application mobile, pour compléter les attributs d'accessibilité lors de relevés sur le terrain
 
-Les données ainsi crées peuvent ensuite être exportées dans le format d'échange NeTEx accessibilité, conformément au cadre réglementaire en France.
+Les données ainsi crées peuvent ensuite être exportées dans le format d'échange 
+NeTEx accessibilité, conformément au cadre réglementaire en France.
 

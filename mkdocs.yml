@@ -9,14 +9,19 @@ plugins:
   - search  
 
 theme:
+  logo: img/logo_alm_white.png
+  favicon: img/favicon.png
   name: material
   language: fr
   features:
     - navigation.indexes
   palette:
     scheme: default
-    primary: blue
-    accent: blue  
+    primary: custom
+    accent: custom
+
+extra_css:
+  - stylesheets/extra.css
 
 markdown_extensions:
   - pymdownx.highlight:
