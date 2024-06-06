@@ -14,5 +14,5 @@ Les composants principaux d'AccesLibre Mobilités sont
 * une application mobile, pour compléter les attributs d'accessibilité lors de relevés sur le terrain
 
 Les données ainsi crées peuvent ensuite être exportées dans le format d'échange 
-NeTEx accessibilité, conformément au cadre réglementaire en France.
+[NeTEx au profil accessibilité France](https://normes.transport.data.gouv.fr/normes/netex/accessibilité/), conformément au cadre réglementaire en France.
 
