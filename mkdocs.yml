@@ -15,6 +15,7 @@ theme:
   language: fr
   features:
     - navigation.indexes
+    - navigation.footer
   palette:
     scheme: default
     primary: custom
