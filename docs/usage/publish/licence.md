@@ -2,7 +2,7 @@
 
 ## Pour les réutilisateurs de vos données
 
-La licence détermine les conditions d'utilisations des données que vous publierez après utilisation d'AccesLibre Mobilités.
+La licence détermine les conditions d'utilisations des données que vous publierez après utilisation d'Accèslibre Mobilités.
 
 Le cadre réglementaire autorise les producteurs de données à choisir parmi ces deux licences  :
 

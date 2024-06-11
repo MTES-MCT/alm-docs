@@ -1,6 +1,6 @@
 # L'éditeur web
 
-L'éditeur web, aussi appelé Yukaidi, est un élément central du projet AccesLibre Mobilités : il permet de créer le [graphe piéton](graphe.md) (c'est-à-dire le réseau des trottoirs, passages piétons et autres cheminements) mais aussi de visualiser l'état de la collecte et le détail des attributs de chaque objets sur une carte.
+L'éditeur web, aussi appelé Yukaidi, est un élément central du projet Accèslibre Mobilités : il permet de créer le [graphe piéton](graphe.md) (c'est-à-dire le réseau des trottoirs, passages piétons et autres cheminements) mais aussi de visualiser l'état de la collecte et le détail des attributs de chaque objets sur une carte.
 
 ## Utilisation
 
@@ -27,7 +27,7 @@ Pour créer un nouvel objet, on procédera de la sorte :
 
 ## Trouver de l'aide
 
-Bien que l'utilisation de l'éditeur web soit assez simple et intuitive, il est recommandé d'effectuer en entier le tutoriel qui s'affiche lors de la première utilisation : il permet en effet de se familiariser avec l'interface mais aussi de découvrir les types d'objets qu'il est possible de gérer dans AccesLibre Mobilités.
+Bien que l'utilisation de l'éditeur web soit assez simple et intuitive, il est recommandé d'effectuer en entier le tutoriel qui s'affiche lors de la première utilisation : il permet en effet de se familiariser avec l'interface mais aussi de découvrir les types d'objets qu'il est possible de gérer dans Accèslibre Mobilités.
 
 !!! info
 

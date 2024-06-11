@@ -4,7 +4,7 @@
 
     [OpenStreetMap](https://www.openstreetmap.org) (OSM), qu'on présente souvent comme le wikipédia des cartes, est un projet mondial de cartographie collaborative. Sa communauté crée des données librement exploitables. Aujourd’hui considérée comme la base de données cartographique ouverte la plus exhaustive au monde, OpenStreetMap permet notamment la description détaillée de la voirie et des cheminements piétons.
 
-Il est possible d'importer des données de cheminement piéton d'[OpenStreetMap](https://www.openstreetmap.org) pour initialiser le graphe piéton AccesLibre Mobilités avec les trottoirs et passages piétons déjà renseignées dans OpenStreetMap.
+Il est possible d'importer des données de cheminement piéton d'[OpenStreetMap](https://www.openstreetmap.org) pour initialiser le graphe piéton Accèslibre Mobilités avec les trottoirs et passages piétons déjà renseignées dans OpenStreetMap.
 
 L'étape d'import peut faire gagner un temps significatif de saisie, car [la création du graphe piéton](../../web/graphe.md) est une étape très chronophage et qui a une importance cruciale pour la poursuite du projet. De plus, elle permet de tirer partie des éventuels informations déjà renseignées par les contributeurs OpenStreetMap telles que la nature du revêtement, sa qualité ou encore la présence de marquage des traversées piétonnes.
 
@@ -91,12 +91,12 @@ Un cheminement artificiel est également automatiquement créé entre les places
 ## Focus sur la licence
 
 Les données OpenStreetMap sont publiées sous la [licence ODbL](https://www.openstreetmap.org/copyright) par la fondation OpenStreetMap, auxquelles s'ajoutent des [Directives générales](https://osmfoundation.org/wiki/Licence/Community_Guidelines) ("community guidelines").
-Ainsi, les données OpenStreetMap sont open data et librement utilisables pour être importées et servir de base au graphe piéton d'AccesLibre Mobilités.
+Ainsi, les données OpenStreetMap sont open data et librement utilisables pour être importées et servir de base au graphe piéton d'Accèslibre Mobilités.
 
-L'utilisation de l'import OpenStreetMap dans AccesLibre Mobilités impose cependant les conditions suivantes :
+L'utilisation de l'import OpenStreetMap dans Accèslibre Mobilités impose cependant les conditions suivantes :
 
-* l'attribution : les données finales que vous publierez après utilisation d'AccesLibre Mobilités doivent préciser qu'OpenStreetMap a été utilisé. Voici à titre indicatif une proposition de formulation d'attribution : [Nom de ma collectivité] - contient des données OpenStreetMap
-* le partage à l'identique : les données finales que vous publierez après utilisation d'AccesLibre Mobilités doivent être sous licence ODbL
+* l'attribution : les données finales que vous publierez après utilisation d'Accèslibre Mobilités doivent préciser qu'OpenStreetMap a été utilisé. Voici à titre indicatif une proposition de formulation d'attribution : [Nom de ma collectivité] - contient des données OpenStreetMap
+* le partage à l'identique : les données finales que vous publierez après utilisation d'Accèslibre Mobilités doivent être sous licence ODbL
 
 Plus d'information sur la page dédiée aux [licences](../../publish/licence.md)
 

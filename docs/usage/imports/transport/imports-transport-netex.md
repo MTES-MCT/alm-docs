@@ -6,7 +6,7 @@
 
     En complément de la norme NeTEx, les [profils France](https://normes.transport.data.gouv.fr/) viennent compléter et expliciter l'interprétation et les attributs retenus pour le partage de données en France.
 
-Il est possible d'importer des données transport au format NeTEx pour initialiser AccesLibre Mobilités avec les arrêts de transport et les gares déjà renseignées en open data. Cela vous permet notamment d'utiliser les mêmes identifiants et donc de faciliter l'interopérabilité.
+Il est possible d'importer des données transport au format NeTEx pour initialiser Accèslibre Mobilités avec les arrêts de transport et les gares déjà renseignées en open data. Cela vous permet notamment d'utiliser les mêmes identifiants et donc de faciliter l'interopérabilité.
 
 ## Trouver un jeu de données NeTEx
 
@@ -19,7 +19,7 @@ S'il existe uniquement un jeu de données au format GTFS, les conversions automa
   ![capture d'écran du PAN](../../../img/screenshot-pan.png)
   <figcaption>Sur le PAN, sur la page d'un jeu de données, la colonne de droite vous permet de vérifier le type de données, la licence et la couverture géographique.
   Le lien "détails" vous permet d'obtenir quelques informations sur le nombre d'arrêts, sur la présence d'information d'accessibilité et de visualiser leur position sur une carte.
-  Enfin, le lien Télécharger NeTEx vous permet d'obtenir le fichier à utiliser pour l'import AccesLibre Mobilités.
+  Enfin, le lien Télécharger NeTEx vous permet d'obtenir le fichier à utiliser pour l'import Accèslibre Mobilités.
 </figcaption>
 </figure>
 
@@ -37,7 +37,7 @@ Les objets `Entrance` ou `StopPlaceEntrance` (entrées de gares et bouches de m�
 
 !!! warning "Points d'attention"
 
-    Seuls les objets ayant une position géographique peuvent être importés dans AccesLibre Mobilités. Les `Quay` ou `StopPlace` sans coordonnées sont donc ignorés.
+    Seuls les objets ayant une position géographique peuvent être importés dans Accèslibre Mobilités. Les `Quay` ou `StopPlace` sans coordonnées sont donc ignorés.
 
     Les `StopPlace` sont uniquement importés s'ils comportent au moins un `Quay` ou un `StopPlaceEntrance`. Cela signifie qu'en général les zones d'arrêts multimodales servant uniquement d'enveloppe à des zones d'arrêts monomodales sont ignorées.
 
@@ -51,22 +51,22 @@ Chaque jeu de données peut être publié sous une licence qui lui est propre, e
 
 === "Licence ouverte"
 
-    Les données NeTEx publiées sous [licence ouverte](https://www.etalab.gouv.fr/licence-ouverte-open-licence/) sont open data et librement utilisables pour être importées et servir de base au graphe piéton d'AccesLibre Mobilités.
+    Les données NeTEx publiées sous [licence ouverte](https://www.etalab.gouv.fr/licence-ouverte-open-licence/) sont open data et librement utilisables pour être importées et servir de base au graphe piéton d'Accèslibre Mobilités.
 
-    L'utilisation d'un import en licence ouverte dans AccesLibre Mobilités impose notamment les conditions suivantes :
+    L'utilisation d'un import en licence ouverte dans Accèslibre Mobilités impose notamment les conditions suivantes :
 
-    * l'attribution : les données finales que vous publierez après utilisation d'AccesLibre Mobilités doivent préciser que des données sous licence ouverte ont été utilisées ainsi que la date de dernière mise à jour des données utilisées. Voici à titre indicatif une proposition de formulation d'attribution : [Nom de ma collectivité] - contient des données de [producteur licence ouverte] (mise à jour de février 2023)
+    * l'attribution : les données finales que vous publierez après utilisation d'Accèslibre Mobilités doivent préciser que des données sous licence ouverte ont été utilisées ainsi que la date de dernière mise à jour des données utilisées. Voici à titre indicatif une proposition de formulation d'attribution : [Nom de ma collectivité] - contient des données de [producteur licence ouverte] (mise à jour de février 2023)
 
 === "Licence ODbL"
 
     Certaines données sont publiées sous licence [ODbL](https://opendatacommons.org/licenses/odbl/1.0/). En général, les [conditions particulières](https://doc.transport.data.gouv.fr/le-point-d-acces-national/cadre-juridique/conditions-dutilisation-des-donnees/licence-odbl) du PAN s'appliquent également.
 
-    Ces données sont open data et librement utilisables pour être importées et servir de base au graphe piéton d'AccesLibre Mobilités.
+    Ces données sont open data et librement utilisables pour être importées et servir de base au graphe piéton d'Accèslibre Mobilités.
 
-    L'utilisation d'un import en licence ODbL dans AccesLibre Mobilités impose notamment les conditions suivantes :
+    L'utilisation d'un import en licence ODbL dans Accèslibre Mobilités impose notamment les conditions suivantes :
 
-    * l'attribution : les données finales que vous publierez après utilisation d'AccesLibre Mobilités doivent préciser que des données sous licence ouverte ont été utilisées. Voici à titre indicatif une proposition de formulation d'attribution : [Nom de ma collectivité] - contient des données de [producteur licence ODbL]
-    * le partage à l'identique : les données finales que vous publierez après utilisation d'AccesLibre Mobilités doivent être sous licence ODbL
+    * l'attribution : les données finales que vous publierez après utilisation d'Accèslibre Mobilités doivent préciser que des données sous licence ouverte ont été utilisées. Voici à titre indicatif une proposition de formulation d'attribution : [Nom de ma collectivité] - contient des données de [producteur licence ODbL]
+    * le partage à l'identique : les données finales que vous publierez après utilisation d'Accèslibre Mobilités doivent être sous licence ODbL
 
 === "Licence Mobilités"
 
@@ -74,7 +74,7 @@ Chaque jeu de données peut être publié sous une licence qui lui est propre, e
 
     Ces données ne sont pas librement réutilisables et nécessitent un accord du producteur de données avant tout import.
 
-    De plus, des conditions similaires à la licence ODbL s'appliqueront aux données finales que vous publierez après utilisation d'AccesLibre Mobilités.
+    De plus, des conditions similaires à la licence ODbL s'appliqueront aux données finales que vous publierez après utilisation d'Accèslibre Mobilités.
 
 Plus d'information sur la page dédiée aux [licences](../../publish/licence.md)
 

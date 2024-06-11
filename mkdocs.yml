@@ -1,4 +1,4 @@
-site_name: Documentation AccesLibre Mobilités
+site_name: Documentation Accèslibre Mobilités
 site_url: !ENV SITE_URL
 repo_url: https://github.com/MTES-MCT/alm-docs/
 repo_name: Github

@@ -1,20 +1,20 @@
 # Se faire accompagner
 
-Cette page liste des entreprises qui proposent des prestations d'accompagnement autour d'AccesLibre Mobilités.
+Cette page liste des entreprises qui proposent des prestations d'accompagnement autour d'Accèslibre Mobilités.
 
 !!! info 
 
-    AccesLibre Mobilités est une solution open source : si vous êtes une entreprise qui propose des services autour d'AccesLibre Mobilités, n'hésitez pas à vous ajouter sur cette page.
+    Accèslibre Mobilités est une solution open source : si vous êtes une entreprise qui propose des services autour d'Accèslibre Mobilités, n'hésitez pas à vous ajouter sur cette page.
 
 ## Votre partenaire existant
 
-Si vous avez bénéficié d'une prestation d'installation de la solution AccesLibre Mobilités, contacter votre prestataire. Un forfait d'accompagnement a surement été prévu dans ce cadre.
+Si vous avez bénéficié d'une prestation d'installation de la solution Accèslibre Mobilités, contacter votre prestataire. Un forfait d'accompagnement a surement été prévu dans ce cadre.
 
 ## Someware
 
 Someware est une entreprise qui propose des prestations de conseil et de développement logiciel sur la thématique de l'accessibilité et la marchabilité.
 
-Someware participe au développement d'AccesLibre Mobilités depuis 2023. Son aire d'expertise recouvre :
+Someware participe au développement d'Accèslibre Mobilités depuis 2023. Son aire d'expertise recouvre :
 
 * l'architecture logicielle de la suite
 * le standard CNIG pour l'accessibilité
@@ -23,7 +23,7 @@ Someware participe au développement d'AccesLibre Mobilités depuis 2023. Son ai
 
 Someware peut vous proposer des prestations d'accompagnement sur les sujets suivants :
 
-* installation et configuration de la solution AccesLibre Mobilités
+* installation et configuration de la solution Accèslibre Mobilités
 * développements spécifiques
 * l'analyse de vos données internes et la pertinence de réaliser un import
 * etc
@@ -34,7 +34,7 @@ Someware peut vous proposer des prestations d'accompagnement sur les sujets suiv
 
 Jungle Bus est une entreprise qui propose des prestations autour de l'utilisation et la création de données OpenStreetMap sur la thématique de la mobilité.
 
-Jungle Bus participe au développement d'AccesLibre Mobilités depuis 2023. Son aire d'expertise recouvre :
+Jungle Bus participe au développement d'Accèslibre Mobilités depuis 2023. Son aire d'expertise recouvre :
 
 * OpenStreetMap
 * le modèle de données WDM
@@ -57,7 +57,7 @@ Jungle Bus peut vous proposer des prestations d'accompagnement sur les sujets su
 
 Atipy est une entreprise qui propose des prestations dans les domaines du digital, du design, de l'accessibilité et de la conception universelle.
 
-Atipy participe au développement d'AccesLibre Mobilités depuis 2023. Son aire d'expertise recouvre :
+Atipy participe au développement d'Accèslibre Mobilités depuis 2023. Son aire d'expertise recouvre :
 
 * le standard CNIG pour l'accessibilité
 * l'application mobile
@@ -66,7 +66,7 @@ Atipy participe au développement d'AccesLibre Mobilités depuis 2023. Son aire 
 
 Atipy peut vous proposer des prestations d'accompagnement sur les sujets suivants :
 
-* formations à l'accessibilité et à l'utilisation d'AccesLibre Mobilités
+* formations à l'accessibilité et à l'utilisation d'Accèslibre Mobilités
 * relevés d'attributs sur le terrain
 * etc
 

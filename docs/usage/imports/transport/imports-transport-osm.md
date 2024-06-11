@@ -4,7 +4,7 @@
 
     [OpenStreetMap](https://www.openstreetmap.org) (OSM), qu'on présente souvent comme le wikipédia des cartes, est un projet mondial de cartographie collaborative. Sa communauté crée des données librement exploitables. Aujourd’hui considérée comme la base de données cartographique ouverte la plus exhaustive au monde, OpenStreetMap permet notamment la description détaillée des arrêts et réseaux de transport.
 
-Il est possible d'importer des données transport d'[OpenStreetMap](https://www.openstreetmap.org) pour initialiser AccesLibre Mobilités avec les arrêts de transport et les gares déjà renseignées dans OpenStreetMap.
+Il est possible d'importer des données transport d'[OpenStreetMap](https://www.openstreetmap.org) pour initialiser Accèslibre Mobilités avec les arrêts de transport et les gares déjà renseignées dans OpenStreetMap.
 
 ## Prévisualiser les données disponibles
 
@@ -45,11 +45,11 @@ Pour plus d'informations sur les tags et les conversions réalisés, se reporter
 ## Focus sur la licence
 
 Les données OpenStreetMap sont publiées sous la [licence ODbL](https://www.openstreetmap.org/copyright) par la fondation OpenStreetMap, auxquelles s'ajoutent des [Directives générales](https://osmfoundation.org/wiki/Licence/Community_Guidelines) ("community guidelines").
-Ainsi, les données OpenStreetMap sont open data et librement utilisables pour être importées et servir de base au graphe piéton d'AccesLibre Mobilités.
+Ainsi, les données OpenStreetMap sont open data et librement utilisables pour être importées et servir de base au graphe piéton d'Accèslibre Mobilités.
 
-L'utilisation de l'import OpenStreetMap dans AccesLibre Mobilités impose cependant les conditions suivantes :
+L'utilisation de l'import OpenStreetMap dans Accèslibre Mobilités impose cependant les conditions suivantes :
 
-* l'attribution : les données finales que vous publierez après utilisation d'AccesLibre Mobilités doivent préciser qu'OpenStreetMap a été utilisé. Voici à titre indicatif une proposition de formulation d'attribution : [Nom de ma collectivité] - contient des données OpenStreetMap
-* le partage à l'identique : les données finales que vous publierez après utilisation d'AccesLibre Mobilités doivent être sous licence ODbL
+* l'attribution : les données finales que vous publierez après utilisation d'Accèslibre Mobilités doivent préciser qu'OpenStreetMap a été utilisé. Voici à titre indicatif une proposition de formulation d'attribution : [Nom de ma collectivité] - contient des données OpenStreetMap
+* le partage à l'identique : les données finales que vous publierez après utilisation d'Accèslibre Mobilités doivent être sous licence ODbL
 
 Plus d'information sur la page dédiée aux [licences](../../publish/licence.md)

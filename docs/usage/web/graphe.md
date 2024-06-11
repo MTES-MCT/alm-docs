@@ -1,6 +1,6 @@
 # La création du graphe piéton dans l'éditeur web
 
-Le graphe piéton désigne le réseau des trottoirs, passages piétons et autres cheminements et constitue la base de la collecte d'information dans AccesLibre Mobilités.
+Le graphe piéton désigne le réseau des trottoirs, passages piétons et autres cheminements et constitue la base de la collecte d'information dans Accèslibre Mobilités.
 
 !!! abstract "Conseil"
 

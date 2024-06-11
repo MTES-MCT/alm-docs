@@ -4,7 +4,7 @@ Réaliser la collecte des données d'accessibilité à l'échelle d'un territoir
 
 ## Étapes
 
-Un projet typique avec AccesLibre Mobilités est constitué de plusieurs étapes :
+Un projet typique avec Accèslibre Mobilités est constitué de plusieurs étapes :
 
 * l'installation de l'outil
 * la configuration initiale : pour renseigner la zone géographique concernée, ainsi que les zones de travail
@@ -23,7 +23,7 @@ La création du graphe piéton se fait dans [l'éditeur web](web/index.md). Il s
 
 [La phase d'import](imports/index.md) peut permettre de raccourcir sensiblement l'étape de création du graphe dans l'éditeur web. En effet, il est possible d'importer des données déjà existantes sur les arrêts de transport, les ERP et les cheminements.
 
-Dans certains cas, il peut même être plus pertinent d'ajouter vos données dans OpenStreetMap, d'y créer le graphe piéton puis de réaliser un import OpenStreetMap au lieu d'effectuer la saisie du graphe dans l'éditeur web AccesLibre Mobilités.
+Dans certains cas, il peut même être plus pertinent d'ajouter vos données dans OpenStreetMap, d'y créer le graphe piéton puis de réaliser un import OpenStreetMap au lieu d'effectuer la saisie du graphe dans l'éditeur web Accèslibre Mobilités.
 
-La phase de collecte terrain se fait à l'aide de l'application mobile AccesLibre Mobilités.
+La phase de collecte terrain se fait à l'aide de l'application mobile Accèslibre Mobilités.
 Le graphe piéton y est représenté et des questions (appelées quêtes) permettent de renseigner les attributs d'accessibilité.
