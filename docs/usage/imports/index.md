@@ -1,14 +1,14 @@
 # Imports
 
-AccesLibre Mobilités propose plusieurs modules d'imports de données, qui permettent d'initialiser le [graphe piéton](../web/graphe.md) avec les données dont vous disposez déjà en interne.
+Accèslibre Mobilités propose plusieurs modules d'imports de données, qui permettent d'initialiser le [graphe piéton](../web/graphe.md) avec les données dont vous disposez déjà en interne.
 
-La phase d'import est facultative : il est possible de créer l'intégralité des données dans AccesLibre Mobilités sans recourir à des imports.
+La phase d'import est facultative : il est possible de créer l'intégralité des données dans Accèslibre Mobilités sans recourir à des imports.
 Cependant, lorsque des données sont préexistantes, il est pertinent de s'appuyer dessus afin :
 
 - de ne pas réinventer la roue et d'éviter de refaire un travail de collecte et de création de données qui a déjà été réalisé
 - de s'appuyer sur des identifiants communs, pour faciliter l'interopérabilité des données et la coopération entre les services
 
-AccesLibre Mobilités propose trois catégories d'imports :
+Accèslibre Mobilités propose trois catégories d'imports :
 
 * [l'import de données transport](transport/index.md)
 * [l'import de données de cheminement](cheminement/index.md)
@@ -26,10 +26,10 @@ Il est possible de réaliser plusieurs imports (par exemple un import de donnée
 
 Enfin, en complément des aspects techniques, des questions de propriété privée et de licence sont également à considérer avant de réaliser un import.
 
-En effet, les données créées dans AccesLibre Mobilités ont vocation à être publiées en open data. Cela interdit a priori l'utilisation et l'import de données privées qui n'ont pas vocation à être mises à disposition du public (par exemple données achetées à des opérateurs de mobilité type Waze, Strava).
+En effet, les données créées dans Accèslibre Mobilités ont vocation à être publiées en open data. Cela interdit a priori l'utilisation et l'import de données privées qui n'ont pas vocation à être mises à disposition du public (par exemple données achetées à des opérateurs de mobilité type Waze, Strava).
 
-Les données de votre SIG ou créées par vos services sont a priori utilisables dans AccesLibre Mobilités, mais il vous revient de vous assurer qu'elles sont effectivement diffusables.
+Les données de votre SIG ou créées par vos services sont a priori utilisables dans Accèslibre Mobilités, mais il vous revient de vous assurer qu'elles sont effectivement diffusables.
 
-De plus, la licence ou les conditions d'utilisation des données importées peuvent avoir un impact sur la licence finale de publication des données d'AccesLibre Mobilités. Le cas typique est la présence d'une clause d'attribution (présente dans les données sous licence ouverte et sous licence ODbL), qui impose d'afficher le nom du fournisseur de données dans les données finales.
+De plus, la licence ou les conditions d'utilisation des données importées peuvent avoir un impact sur la licence finale de publication des données d'Accèslibre Mobilités. Le cas typique est la présence d'une clause d'attribution (présente dans les données sous licence ouverte et sous licence ODbL), qui impose d'afficher le nom du fournisseur de données dans les données finales.
 
 Plus d'information sur la page dédiée aux [licences](../publish/licence.md)

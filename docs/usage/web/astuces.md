@@ -24,7 +24,8 @@ Le format geojson est recommandé pour cet usage.
 
 ## Travailler avec les notes
 
-Les notes peuvent être utilisées pour communiquer entre les différents utilisateurs d'AccesLibre Mobilités pour indiquer qu'un élément requiert une correction ou une attention particulière.
+Les notes peuvent être utilisées pour communiquer entre les différents 
+utilisateurs d'Accèslibre Mobilités pour indiquer qu'un élément requiert une correction ou une attention particulière.
 
 Il s'agit en effet d'un commentaire que vous pouvez laisser sur la carte et qui sera visible par les utilisateurs de l'éditeur web et de l'application mobile. Les notes peuvent également être commentées et agrémentées d'images.
 

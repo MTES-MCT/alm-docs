@@ -1,6 +1,6 @@
 # Modèle de données
 
-AccesLibre Mobilités permet de collecter des données en respectant le standard CNIG Accessibilité et le format d'échange NeTEx accessibilité.
+Accèslibre Mobilités permet de collecter des données en respectant le standard CNIG Accessibilité et le format d'échange NeTEx accessibilité.
 
 !!! question "CNIG ? "
 
@@ -12,13 +12,13 @@ AccesLibre Mobilités permet de collecter des données en respectant le standard
 
     Le [profil accessibilité](https://normes.transport.data.gouv.fr/normes/netex/accessibilit%C3%A9/) est le format d'échange qui a été retenu dans le cadre réglementaire en France pour publier des données d'accessibilité à la fois pour la voirie et pour les transports.
 
-Le modèle de données utilisé par AccesLibre Mobilités (c'est-à-dire les types d'objets qu'il est possible de créer et leurs attributs) a été développé spécialement pour le projet, afin d'être compatible à la fois avec les modèles CNIG et NeTEx.
+Le modèle de données utilisé par AccésLibre Mobilités (c'est-à-dire les types d'objets qu'il est possible de créer et leurs attributs) a été développé spécialement pour le projet, afin d'être compatible à la fois avec les modèles CNIG et NeTEx.
 
-Rassurez-vous, il n'est pas nécessaire de maitriser le détail de ces modèles de données pour utiliser AccesLibre Mobilités ! L'éditeur web et l'application mobile s'efforceront tant que possible de faire référence à des objets du quotidien comme un trottoir ou une boulangerie.
+Rassurez-vous, il n'est pas nécessaire de maitriser le détail de ces modèles de données pour utiliser Accèslibre Mobilités ! L'éditeur web et l'application mobile s'efforceront tant que possible de faire référence à des objets du quotidien comme un trottoir ou une boulangerie.
 
 ## Objets
 
-AccesLibre Mobilités permet de représenter les objets suivants :
+Accèslibre Mobilités permet de représenter les objets suivants :
 
 [point]: ../img/picto-point.png
 [ligne]: ../img/picto-ligne.png
@@ -49,7 +49,7 @@ Des propriétés (aussi appelés "tags") sont assignées à ces éléments de ba
 
 Ainsi un quai de tram sera modélisé techniquement par un ![way] chemin fermé, avec le tag `Quay`=`Tram`. On indiquera son numéro en lui ajoutant un tag `PublicCode`=`2B` par exemple.
 
-Cette modélisation est calquée sur celle du projet [OpenStreetMap](https://www.openstreetmap.org/). Les tags utilisés pour AccesLibre Mobilités sont en revanche différents des tags OpenStreetMap.
+Cette modélisation est calquée sur celle du projet [OpenStreetMap](https://www.openstreetmap.org/). Les tags utilisés pour Accèslibre Mobilités sont en revanche différents des tags OpenStreetMap.
 
 !!! example "astuce"
 

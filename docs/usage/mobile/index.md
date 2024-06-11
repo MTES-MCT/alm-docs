@@ -32,7 +32,7 @@ L'utilisation de l'application repose sur les principes suivants :
 ## Connexion au compte Accèslibre Mobilités
 
 L'envoi des réponses nécessite d'être connecté à son compte Accèslibre 
-mobilités. Pour se connecter, ouvrir le menu en haut à droite et cliquez sur 
+Mobilités. Pour se connecter, ouvrir le menu en haut à droite et cliquez sur 
 "Mon compte".
 
 ![Capture d'écran du menu principal](../../img/app_main_menu.png)

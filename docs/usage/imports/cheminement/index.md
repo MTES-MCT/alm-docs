@@ -4,7 +4,7 @@
 [ligne]: ../../../img/picto-ligne.png
 [surface]: ../../../img/picto-surface.png
 
-L'import des cheminements piétons permet d'initialiser le [graphe piéton](../../web/graphe.md), c'est-à-dire le réseau des trottoirs et passages piétons qui constitue la base de la collecte d'information dans AccesLibre Mobilités.
+L'import des cheminements piétons permet d'initialiser le [graphe piéton](../../web/graphe.md), c'est-à-dire le réseau des trottoirs et passages piétons qui constitue la base de la collecte d'information dans Accèslibre Mobilités.
 
 !!! abstract "Conseil"
 
@@ -46,7 +46,7 @@ Vous pouvez réaliser cette étape en toute autonomie : [voir le mode opératoir
 
 ### L'intégration du jeu de données à OpenStreetMap
 
-Si vous disposez par exemple d'un jeu de données avec la liste des places de stationnement PMR ou des relevés des BEV de votre territoire, ces données peuvent venir enrichir le graphe d'AccesLibre Mobilités : si vous en avez les compétences, vous pouvez éditer OpenStreetMap et ajouter ces informations dans OpenStreetMap, puis réaliser un [import OpenStreetMap](imports-cheminement-osm.md) en autonomie.
+Si vous disposez par exemple d'un jeu de données avec la liste des places de stationnement PMR ou des relevés des BEV de votre territoire, ces données peuvent venir enrichir le graphe d'Accèslibre Mobilités : si vous en avez les compétences, vous pouvez éditer OpenStreetMap et ajouter ces informations dans OpenStreetMap, puis réaliser un [import OpenStreetMap](imports-cheminement-osm.md) en autonomie.
 
 <figure markdown>
   ![capture d'écran de JOSM, l'éditeur OSM](../../../img/screenshot-josm-conflation.png)
@@ -57,6 +57,6 @@ Notre équipe peut également vous [proposer un accompagnement](../../../contact
 
 ### La réalisation d'un nouveau module d'import de données de cheminement
 
-Si vos données sont standardisées ou normalisées ou issues d'un logiciel fréquemment utilisés par les utilisateurs d'AccesLibre Mobilités, il peut être pertinent de créer un nouveau module d'import afin de pouvoir gérer durablement ce format de données.
+Si vos données sont standardisées ou normalisées ou issues d'un logiciel fréquemment utilisés par les utilisateurs d'Accèslibre Mobilités, il peut être pertinent de créer un nouveau module d'import afin de pouvoir gérer durablement ce format de données.
 
 Notre équipe peut vous [proposer un accompagnement](../../../contact.md) pour créer ce nouveau module d'import.
