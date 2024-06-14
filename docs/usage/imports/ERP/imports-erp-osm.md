@@ -13,7 +13,6 @@ Cette étape est particulièrement pertinente si vous souhaitez vous intéresser
 Afin de se faire une idée de la quantité d'ERP déjà renseignées dans OpenStreetMap et d'évaluer la pertinence d'un import, plusieurs outils peuvent être utiles :
 
 * la carte interactive [Wheelmap](https://wheelmap.org/) permet d'inspecter les points d'intérêts et même de compléter s'ils sont accessibles en fauteuil roulant
-* la carte interactive [Qwant Maps](https://www.qwant.com/maps/) peut vous permettre d'explorer votre territoire et de cliquer sur les points d'intérêts afin de consulter leurs attributs
 * le fond de carte standard d'[OpenStreetMap.org](https://www.openstreetmap.org/) affiche également les commerces et autres points d'intérêts
 
 <figure markdown>

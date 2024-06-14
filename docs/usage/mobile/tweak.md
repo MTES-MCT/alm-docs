@@ -31,3 +31,11 @@ et priorité des quêtes".
 
 ![Capture d'écran de l'écran de sélection des 
 quêtes](../../img/app_change_quests.png)
+
+## Travailler avec les notes
+
+TODO
+
+### Créer une note
+
+### Compléter une note
