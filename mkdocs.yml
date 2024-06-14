@@ -61,7 +61,7 @@ nav:
     - Éditeur web:
       - 'usage/web/index.md'
       - Graphe : usage/web/graphe.md
-      - Astuces avancées : usage/web/astuces.md
+      - Utilisation avancée : usage/web/astuces.md
     - Application mobile:
       - 'usage/mobile/index.md'
       - Utilisation avancée : usage/mobile/tweak.md

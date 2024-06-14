@@ -49,6 +49,7 @@ Jungle Bus peut vous proposer des prestations d'accompagnement sur les sujets su
 * l'analyse de vos données internes et la pertinence de réaliser un import
 * l'amélioration des données OpenStreetMap avant un import
 * l'intégration de vos données dans OpenStreetMap
+* la réalisation de relevés photos 360° sur votre territoire et la publication sur Panoramax ou Mapillary
 * etc
 
 [Contacter Jungle Bus](https://junglebus.io/contact/)

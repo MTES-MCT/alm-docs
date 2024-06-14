@@ -22,6 +22,33 @@ Les données s'affichent alors en rose, et vous pouvez cliquer sur les élément
 
 Le format geojson est recommandé pour cet usage.
 
+## Travailler avec des photos de rue
+
+Plusieurs plateformes permettent d'explorer un territoire en parcourant des photos immersives de terrain. Ces photos peuvent constituer une ressource précieuse pour votre projet de cartographie. Vous pouvez donc les afficher en superposition de votre graphe piéton dans l'éditeur web.
+
+Les plateformes suivantes sont supportées :
+
+* [Panoramax](https://panoramax.fr) (instances IGN et OpenStreetMap France)
+* [Mapillary](https://www.mapillary.com/?locale=fr_FR)
+* [KartaView](https://kartaview.org/)
+
+!!! bug "Attention"
+
+    L'intégration Panoramax n'est pas encore implémentée dans la version actuelle de l'éditeur web. Cela ne saurait tarder ;)
+
+
+Pour afficher les photos de rues, cochez la plateforme correspondante dans le menu "Données cartographiques" à droite.
+
+![Capture d'écran de l'éditeur web](../../img/yukaidi_mapillary.png)
+
+Les positions des photos disponibles s'affichent alors en vert. En cliquant sur un point, vous pouvez visualiser la photographie correspondante.
+
+Des filtres supplémentaires sont également disponibles dans le menu "Données cartographiques" par exemple pour ne conserver que les photos panoramiques (à 360°) ou pour n'afficher que les photos prises sur une certaine plage de date.
+
+!!! abstract "Conseil"
+
+    Photo-documenter votre territoire avant de lancer votre projet de collecte de données d'accessibilité peut constituer une très bonne stratégie, notamment pour réaliser un graphe piéton de qualité. Notre équipe peut vous [proposer un accompagnement](../../contact.md) pour collecter des photos de rues sur votre territoire.
+
 ## Travailler avec les notes
 
 Les notes peuvent être utilisées pour communiquer entre les différents 
@@ -46,4 +73,4 @@ Les notes existantes sont également représentées sur la carte sous la forme d
 Voir aussi :
 
 * Le chapitre sur les notes dans l'aide intégrée de l'éditeur web ("Aide", dans le menu à droite)
-* TODO la gestion des notes dans l'application mobile
+* [la gestion des notes dans l'application mobile](../mobile/tweak.md#travailler-avec-les-notes)
