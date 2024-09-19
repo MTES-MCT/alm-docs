@@ -36,7 +36,7 @@ Les entrées de gares et bouches de métro sont lues et importées, avec les att
     
     De même, l'utilisation du tag [station](https://wiki.openstreetmap.org/wiki/Key:station) est recommandée pour différencer les gares des stations.
 
-    Enfin les [relations multipolygones](https://wiki.openstreetmap.org/wiki/FR:Relation:multipolygon) d'OSM qu'on retrouve parfois pour modéliser les quais ne sont actuellement pas gérées par l'import.
+    Dans le cas de quai modélisé avec une [relation multipolygone](https://wiki.openstreetmap.org/wiki/FR:Relation:multipolygon), seul le contour extérieur est importé.
 
     En cas de doute, n'hésitez pas à vous [faire accompagner](../../../contact.md) avant de réaliser l'import OpenStreetMap.
 

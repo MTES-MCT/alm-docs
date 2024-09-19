@@ -40,7 +40,7 @@ Les entrées d'ERP sont lues et importées, avec les attributs suivants : type d
 
     La représentation des ERP sous forme de surface est préférée afin de positionner les entrées sur le contour de ceux-ci.
     
-    Cependant les [relations multipolygones](https://wiki.openstreetmap.org/wiki/FR:Relation:multipolygon) d'OSM (qui permettent de représenter des polygones complexes, en plusieurs morceaux ou avec des trous) ne sont actuellement pas gérées par l'import.
+    Dans le cas d'ERP modélisé avec une [relation multipolygone](https://wiki.openstreetmap.org/wiki/FR:Relation:multipolygon) (pour représenter un polygone complexe en plusieurs morceaux ou avec des trous), seul le contour extérieur est importé.
 
 Pour plus d'informations sur les tags et les conversions réalisés, se reporter à la [documentation du module d'import](https://gitlab.com/yukaimaps/yukaimaps-osm2wdm/-/blob/main/doc/osm2wdm.md).
 

@@ -66,7 +66,7 @@ L'essentiel des cheminements piétons tels que décrits sur la page de wiki OSM 
     
     Les passages piétons représentés uniquement sous forme de ![point] point sont transformés en ![ligne] ligne à l'import, il faudra alors créer et les rattacher aux trottoirs attenants.
     
-    Les places piétonnes et les trottoirs surfaciques sont importés tels quels. Il peut être nécessaire de créer en complément des cheminements piétons pour permettre de les traverser sans en faire le tour complet...
+    Les places piétonnes et les trottoirs surfaciques nécessitent une attention particulière après import : dans les cas les plus simples, des cheminements piétons traversant sont générés et utilisés, tandis que dans des cas plus complexes, seul le contour est importé et il peut être nécessaire de créer manuellement des cheminements piétons pour permettre de les traverser sans en faire le tour complet...
 
 La plupart des tags décrits sur la page de wiki [FR:Cheminements piétons](https://wiki.openstreetmap.org/wiki/FR:Cheminements_pi%C3%A9tons) est gérée.
 
