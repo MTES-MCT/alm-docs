@@ -42,7 +42,7 @@ nav:
   - Le modèle de données: 'datamodel/index.md'
   - Installation:
     - Présentation des composants: 'install/architecture.md'
-    - Docker: 'install/docker-compose.md'
+    - Déploiement avec Docker: 'install/docker-compose.md'
   - Utilisation:
     - 'usage/index.md'
     - Imports: 
