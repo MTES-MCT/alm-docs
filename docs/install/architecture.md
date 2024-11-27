@@ -53,7 +53,7 @@ pour la communauté OpenStreetMap.
 Ces interfaces communiquent avec plusieurs API pour la gestion de la donnée et 
 de la configuration de la plateforme.
 
-## API métier
+### API métier
 
 API Rest permettant de gérer la configuration de l'instance, les photos, ainso 
 que les tâches d'import et d'export.
@@ -63,7 +63,7 @@ Il s'agit d'un développement spécifique en Python avec le framwork FastAPI.
 - Dépôt : [Yukaimaps backend](https://gitlab.com/yukaimaps/yukaimaps-backend)
 
 
-## API de données
+### API de données
 
 API permettant de lire, stocker et mettre à jour les données d'accessibilités 
 au format CNIG - Accessibilité.
