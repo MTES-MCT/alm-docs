@@ -32,16 +32,11 @@ Les plateformes suivantes sont supportées :
 * [Mapillary](https://www.mapillary.com/?locale=fr_FR)
 * [KartaView](https://kartaview.org/)
 
-!!! bug "Attention"
-
-    L'intégration Panoramax n'est pas encore implémentée dans la version actuelle de l'éditeur web. Cela ne saurait tarder ;)
-
-
 Pour afficher les photos de rues, cochez la plateforme correspondante dans le menu "Données cartographiques" à droite.
 
-![Capture d'écran de l'éditeur web](../../img/yukaidi_mapillary.png)
+![Capture d'écran de l'éditeur web](../../img/yukaidi_panoramax.png)
 
-Les positions des photos disponibles s'affichent alors en vert. En cliquant sur un point, vous pouvez visualiser la photographie correspondante.
+Les positions des photos disponibles s'affichent alors en vert ou orange. En cliquant sur un point, vous pouvez visualiser la photographie correspondante.
 
 Des filtres supplémentaires sont également disponibles dans le menu "Données cartographiques" par exemple pour ne conserver que les photos panoramiques (à 360°) ou pour n'afficher que les photos prises sur une certaine plage de date.
 
