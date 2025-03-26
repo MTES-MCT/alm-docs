@@ -8,7 +8,7 @@ Accèslibre Mobilités permet de collecter des données en respectant le standar
 
 !!! question "NeTEx ?"
 
-    [NeTEx](https://www.netex-cen.eu/) (Network Timetable Exchange) est une norme européenne pour le partage d'informations de transport public sous forme de documents XML. En complément de la norme NeTEx, les [profils France](https://normes.transport.data.gouv.fr/) viennent compléter et expliciter l'interprétation et les attributs retenus pour le partage de données en France.
+    [NeTEx](https://transmodel-cen.eu/index.php/netex/) (Network Timetable Exchange) est une norme européenne pour le partage d'informations de transport public sous forme de documents XML. En complément de la norme NeTEx, les [profils France](https://normes.transport.data.gouv.fr/) viennent compléter et expliciter l'interprétation et les attributs retenus pour le partage de données en France.
 
     Le [profil accessibilité](https://normes.transport.data.gouv.fr/normes/netex/accessibilit%C3%A9/) est le format d'échange qui a été retenu dans le cadre réglementaire en France pour publier des données d'accessibilité à la fois pour la voirie et pour les transports.
 

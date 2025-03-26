@@ -25,5 +25,29 @@ La création du graphe piéton se fait dans [l'éditeur web](web/index.md). Il s
 
 Dans certains cas, il peut même être plus pertinent d'ajouter vos données dans OpenStreetMap, d'y créer le graphe piéton puis de réaliser un import OpenStreetMap au lieu d'effectuer la saisie du graphe dans l'éditeur web Accèslibre Mobilités.
 
-La phase de collecte terrain se fait à l'aide de l'application mobile Accèslibre Mobilités.
-Le graphe piéton y est représenté et des questions (appelées quêtes) permettent de renseigner les attributs d'accessibilité.
+La phase de collecte terrain se fait à l'aide d'une des applications de relevés proposées par Accèslibre Mobilités :
+
+- l'**application de collecte didactique** se veut simple à utiliser y compris pour des utilisateurs non experts en accessibilité. Cette application mobile (disponible sur Android uniquement) affiche le graphe piéton et propose des questions (appelées quêtes) qui permettent de renseigner les attributs d'accessibilité.
+- l'**application de collecte industrielle** est à destination des utilisateurs déjà experts en accessibilité et fin connaisseurs du modèle de données CNIG. Cette application web affiche le graphe piéton et propose des formulaires compacts listant les attributs obligatoires à collecter.
+
+## Scénarios d'usage
+
+Il existe plusieurs manières de mener votre projet de collecte de données d'accessibilité, en fonction du périmètre, de votre budget, des données déjà disponibles en interne au moment du lancement du projet, de vos outils habituellement utilisés par vos équipes, etc
+
+Voici quelques exemples :
+
+- mener tout votre projet avec Accèslibre Mobilités
+
+AccèsLibre Mobilités vous permet de définir vos zones de travail, d'importer des données déjà disponibles, de tracer un graphe piéton et propose plusieurs outils pour réaliser la collecte sur le terrain des attributs d'accessibilité.
+
+- faire tout ou partie du projet avec OpenStreetMap
+
+OpenStreetMap est une base de données géographique mondiale et elle permet notamment de décrire la voirie. La plupart des attributs attendus en terme d'accessibilité peuvent être décrits dans OpenStreetMap. Accèslibre Mobilités, qui permet d'importer les données OpenStreetMap d'un territoire, peut venir compléter la démarche.
+
+- faire tout ou partie du projet avec QAccess
+
+!!! bug "Attention"
+
+    Cette démarche est encore expérimentale.
+
+Nous vous conseillons d'être [accompagnés](../contact.md) en amont de votre projet afin de choisir la stratégie la plus adaptée à vos besoins et contraintes.

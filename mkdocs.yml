@@ -64,7 +64,7 @@ nav:
       - Utilisation avancée : usage/web/astuces.md
     - Éditeur terrain:
       - 'usage/fieldwork/index.md'
-    - Application mobile:
+    - Application de collecte didactique:
       - 'usage/mobile/index.md'
       - Utilisation avancée : usage/mobile/tweak.md
     - Exports: 'usage/exports.md'
