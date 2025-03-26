@@ -62,6 +62,8 @@ nav:
       - 'usage/web/index.md'
       - Graphe : usage/web/graphe.md
       - Utilisation avancée : usage/web/astuces.md
+    - Éditeur terrain:
+      - 'usage/fieldwork/index.md'
     - Application de collecte didactique:
       - 'usage/mobile/index.md'
       - Utilisation avancée : usage/mobile/tweak.md
