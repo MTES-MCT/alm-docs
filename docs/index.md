@@ -10,8 +10,9 @@ Le point d'entrée d'Accèslibre Mobilités est son portail web, qui permet entr
 
 Les composants principaux d'Accèslibre Mobilités sont
 
-* un éditeur web, qui permet de créer le graphe piéton qui servira de support à la collecte terrain
-* une application mobile, pour compléter les attributs d'accessibilité lors de relevés sur le terrain
+* un [éditeur web]('usage/web'), qui permet de créer le graphe piéton qui servira de support à la collecte terrain
+* un [éditeur terrain]('usage/fieldwork'), pour saisir les attributs d'accessibilité lors de relevés terrain à grande échelle
+* une [application mobile]('usage/mobile'), pour compléter un nombre restreint d'attributs ou pour des relevés à petite échelle
 
 Les données ainsi crées peuvent ensuite être exportées dans le format d'échange 
 [NeTEx au profil accessibilité France](https://normes.transport.data.gouv.fr/normes/netex/accessibilité/), conformément au cadre réglementaire en France.
