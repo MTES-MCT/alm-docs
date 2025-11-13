@@ -43,6 +43,7 @@ nav:
   - Installation:
     - Présentation des composants: 'install/architecture.md'
     - Déploiement avec Docker: 'install/docker-compose.md'
+    - Configuration du serveur d'authentification: 'install/configure-auth.md'
   - Utilisation:
     - 'usage/index.md'
     - Imports: 
