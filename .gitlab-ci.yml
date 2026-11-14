@@ -12,8 +12,6 @@ stages:
 build_site:
   # Build website with mkdocs and expose it as artifact
   stage: build
-  tags:
-    - docker
   image: python:3.11
   variables:
     SITE_URL: $CI_PAGES_URL
