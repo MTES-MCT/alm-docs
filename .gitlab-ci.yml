@@ -29,8 +29,6 @@ pages:
   # to Gitlab pages.
   image: bash
   stage: deploy
-  tags:
-    - docker
   variables:
     GIT_STRATEGY: none
   script:
