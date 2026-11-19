@@ -30,6 +30,11 @@ géographiques vectorielles.
 C'est le format à utiliser pour visualiser les données dans un SIG tel que QGIS ou ArcGIS,
 ou pour importer les données dans un autre logiciel de collecte compatible avec ce format.
 
+Plus d'informations :
+
+- [le standard CNIG Accessibilité](https://cnig.gouv.fr/ressources-accessibilite-a25335.html)
+- [Le Format CNIG Accessibilité](https://github.com/cnigfr/schema-accessibilite-voirie/blob/main/Schema/format_cnig_accessibilite_geopackage/readme.md)
+
 
 ## Walk Data Model
 
