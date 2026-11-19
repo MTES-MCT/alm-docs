@@ -51,6 +51,7 @@ nav:
       - Cheminement: 
         - 'usage/imports/cheminement/index.md'
         - OSM : 'usage/imports/cheminement/imports-cheminement-osm.md'
+        - CNIG Accessibilité : 'usage/imports/cheminement/imports-cheminement-cnig.md'
       - Transport:
         - 'usage/imports/transport/index.md'
         - NeTEx : usage/imports/transport/imports-transport-netex.md

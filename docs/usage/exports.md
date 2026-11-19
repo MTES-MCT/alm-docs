@@ -17,6 +17,20 @@ Plus d'informations :
 - [documentation du profil NeTEx accessibilité France](https://normes.transport.data.gouv.fr/normes/netex/accessibilite/)
 - [documentation de NeTex](https://transmodel-cen.eu/index.php/netex/)
 
+
+## CNIG Accessibilité
+
+Le format **CNIG Accessibilité** est un format d'échange est un format d’échange de données
+conforme au standard CNIG Accessibilité du cheminement en voirie implémenté dans
+une version SIG au format GeoPackage.
+
+ce format s'appuie sur Geopackage, un geostandard pour le stockage et l'échange de données
+géographiques vectorielles.
+
+C'est le format à utiliser pour visualiser les données dans un SIG tel que QGIS ou ArcGIS,
+ou pour importer les données dans un autre logiciel de collecte compatible avec ce format.
+
+
 ## Walk Data Model
 
 Le format **Walk Data Model** est le format technique interne utilisé par AccèsLibre Mobilités.
