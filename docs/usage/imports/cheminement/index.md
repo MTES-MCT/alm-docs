@@ -26,6 +26,7 @@ Les objets suivants peuvent ainsi être créés à partir d'un import de chemine
 Les sources suivantes sont supportées :
 
 - [données OpenStreetMap](imports-cheminement-osm.md) : il s'agit ici d'utiliser les données du projet OpenStreetMap, le wikipédia des cartes
+- [données CNIG Accessibilité](imports-cheminement-cnig.md) : il s'agit d'utiliser un graphe de cheminement existant conforme au standard CNIG Accessibilité
 
 ## Autres
 
