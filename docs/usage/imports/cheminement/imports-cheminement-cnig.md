@@ -41,5 +41,5 @@ dans le [modèle de données d'Accèslibre Mobilités](/datamodel).
 
 Pour connaître l'intégralité des règles de conversions appliquées lors de l'import,
 se référer à la
-[documentation du module d'import](https://gitlab.com/yukaimaps/cnig2wdm/-/blob/main/doc/cnig2wdm.md).
+[documentation du module d'import](https://gitlab.com/yukaimaps/wdm-cnig/-/blob/main/src/wdm_cnig/cnig2wdm/doc/cnig2wdm.md).
 
